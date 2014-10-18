@@ -40,3 +40,10 @@ word_list.txt
 
 test_afficiency.py
 是测试模块效率的模块，跟本项目基本没有关系。
+
+- - - - - - - - - - - - - - -
+
+具体说明见CSDN博客：
+http://blog.csdn.net/gt11799/article/details/40193221
+http://blog.csdn.net/gt11799/article/details/40193753
+http://blog.csdn.net/gt11799/article/details/40207819
